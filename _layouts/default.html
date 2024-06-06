@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    {% seo %}
+
+    {%if site.color-scheme %}
+      <link rel="stylesheet" href="{{ "/assets/css/colors-ColorScheme.css?v=" | replace: "ColorScheme", site.color-scheme | append: site.github.build_revision | relative_url }}">
+    {% else %}
+      <link rel="stylesheet" href="{{ "/assets/css/colors-auto.css?v=" | append: site.github.build_revision | relative_url }}">
+    {% endif %}
+    
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v="              | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+
+        {% if site.logo %}
+            <img src="{{ site.logo | relative_url }}" alt="Logo" width=65% height=auto />
+        {% endif %}
+
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+        {% if site.github.is_project_page %}
+            <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+        {% endif %}
+
+        <p style="font-size: x-small;">
+          - Illinois Institute of Technology<br>
+          - Department of Electrical and Computer Engineering<br>
+          - Ph.D. Candidate in Electrical Engineering<br>
+          - email: nalnatsheh (at) hawk (dot) iit (dot) edu<br>
+          - Office: 3301 S. Dearborn St, SH RM#309, Chicago, IL 60616
+        </p>
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+        <div style="display: flex; justify-content: center;">
+          <div id="clustrmaps-container" style="width: 65%; height: auto;">
+            <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=caE3-awKbWJQ7MP5FO18miVgby5GRGx-GDDHd9a8ff8"></script>
+          </div>
+        </div>
+        {% if site.github.is_project_page %}
+        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
+        <p><small>Hosted on GitHub Pages &mdash; This is a modified version of the <a href="https://github.com/pages-themes/minimal">orderedlist</a> theme</small></p>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>

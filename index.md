@@ -8,8 +8,7 @@ I am a third year Ph.D. student at [Illinois Institute of Technology](https://ww
   
 # Publications
 * * *
-### **A Novel 8T XNOR-SRAM: Computing-in-Memory Design for Binary/Ternary Deep
-Neural Networks**
+### **A Novel 8T XNOR-SRAM: Computing-in-Memory Design for Binary/Ternary Deep Neural Networks**
 N. Alnatsheh, Y. Kim, J. Cho, and K. K. Choi.
 Electronics, February 2023 [paper](./papers/electronics_xnor-sram-cim.pdf)
 

@@ -9,7 +9,7 @@
 - IEEE Micro [(M)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=40)
 - IEEE Transactions on Mobile Computing [(TMC)](https://ieeexplore-ieee-org.ezproxy.gl.iit.edu/xpl/RecentIssue.jsp?punumber=7755)
 - IEEE Transactions on Parallel and Distributed Systems [(TPDS)](https://ieeexplore-ieee-org.ezproxy.gl.iit.edu/xpl/RecentIssue.jsp?punumber=71)
-- IEEE Transactions on Very Large Scale Integration (VLSI) Systems [(TVLSI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=92)
+- IEEE Transactions on Very Large Scale Integration (VLSI) Systems [(TVLSI)](https://ieeexplore-ieee-org.ezproxy.gl.iit.edu/xpl/RecentIssue.jsp?punumber=92)
 
 ## List of Conferences:
 --------------------------------------------------------------------------

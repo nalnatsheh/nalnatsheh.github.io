@@ -2,13 +2,13 @@
 
 ## List of Journals:
 --------------------------------------------------------------------------
-- IEEE Transactions on Circuits and Systems I: Regular Papers [(TCSI)](https://ieeexplore-ieee-org.ezproxy.gl.iit.edu/xpl/RecentIssue.jsp?punumber=8919)
-- IEEE Transactions on Circuits and Systems II: Express Briefs [(TCSII)](https://ieeexplore-ieee-org.ezproxy.gl.iit.edu/xpl/RecentIssue.jsp?punumber=8920)
+- IEEE Transactions on Circuits and Systems I: Regular Papers [(TCAS-I)](https://ieeexplore-ieee-org.ezproxy.gl.iit.edu/xpl/RecentIssue.jsp?punumber=8919)
+- IEEE Transactions on Circuits and Systems II: Express Briefs [(TCAS-II)](https://ieeexplore-ieee-org.ezproxy.gl.iit.edu/xpl/RecentIssue.jsp?punumber=8920)
 - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems [(TCAD)](https://ieeexplore-ieee-org.ezproxy.gl.iit.edu/xpl/RecentIssue.jsp?punumber=43)
 - IEEE Transactions on Computers [(TC)](https://ieeexplore-ieee-org.ezproxy.gl.iit.edu/xpl/RecentIssue.jsp?punumber=12)
 - IEEE Micro [(M)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=40)
 - IEEE Transactions on Mobile Computing [(TMC)](https://ieeexplore-ieee-org.ezproxy.gl.iit.edu/xpl/RecentIssue.jsp?punumber=7755)
-- IEEE Transactions on Parallel and Distributed Systems [(TPDS)](https://ieeexplore-ieee-org.ezproxy.gl.iit.edu/xpl/RecentIssue.jsp?punumber=71)
+- IEEE Transactions on Parallel and Distributed Systems [(TPADS)](https://ieeexplore-ieee-org.ezproxy.gl.iit.edu/xpl/RecentIssue.jsp?punumber=71)
 - IEEE Transactions on Very Large Scale Integration (VLSI) Systems [(TVLSI)](https://ieeexplore-ieee-org.ezproxy.gl.iit.edu/xpl/RecentIssue.jsp?punumber=92)
 
 ## List of Conferences:

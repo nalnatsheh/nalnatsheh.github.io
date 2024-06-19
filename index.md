@@ -5,16 +5,6 @@ I am a third year Ph.D. student at [Illinois Institute of Technology](https://ww
 # Updates
 * * *
 * **Oct 2023**: Passed Ph.D. Qualifying Exam
-  
-# Publications
-* * *
-* **A Novel 8T XNOR-SRAM: Computing-in-Memory Design for Binary/Ternary Deep Neural Networks**<br>
-  <u>N. Alnatsheh</u>, Y. Kim, J. Cho, and K. K. Choi.<br>
-  Electronics, February 2023 [(paper)](./papers/electronics_xnor-sram-cim.pdf)
-
-* **A Novel CNFET SRAM-Based Compute-In-Memory for BNN Considering Chirality and Nanotubes**<br>
-  Y. Kim, <u>N. Alnatsheh</u>, N. Yadav, J. Cho, H. Jo, and K. K. Choi.<br>
-  Electronics, June 2024 [(paper)](./papers/electronics_cnfet-sram-cim.pdf)
 
 # Teaching Assistant
 * * *

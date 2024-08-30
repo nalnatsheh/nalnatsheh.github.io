@@ -14,7 +14,7 @@ I am a third year Ph.D. student at [Illinois Institute of Technology](https://ww
     - ECE 429 - Intro to VLSI Design **UL**
       - Lab01: Wednesday from 08:35 AM to 11:15 AM in SH310A
       - Lab02: Online Recording via ZOOM
-    - ECE 530 - High Performance VLSI IC Systems **G**
+    - ECE 588 - Hardware Acceleration for Machine Learning **G**
     - 
 * **Spring 2024**
     - ECE 429 - Intro to VLSI Design **UL**

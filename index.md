@@ -11,10 +11,10 @@ I am a third year Ph.D. student at [Illinois Institute of Technology](https://ww
 **G** : Graduate Course, **U** : Undergraduate Course, **L** : Lab Instructor
 
 * **Fall 2024**
-    - ECE 429 - Intro to VLSI Design **UL**
+    - [ECE 429 - Intro to VLSI Design](https://nalnatsheh.github.io/iit-ece429/) **UL**
       - Lab01: Wednesday from 08:35 AM to 11:15 AM in SH310A
       - Lab02: Recorded Sessions. 
-    - ECE 588 - Hardware Acceleration for Machine Learning **G**
+    - [ECE 588 - Hardware Acceleration for Machine Learning](https://nalnatsheh.github.io/iit-ece588/) **G**
     
 * **Spring 2024**
     - ECE 429 - Intro to VLSI Design **UL**
